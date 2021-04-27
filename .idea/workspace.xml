@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd60d932-e46d-4bac-b65a-a5e7a4a0fd21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rMipB9ADhlDJYXQpk7ygWAoVxz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.bytebank.banco.teste" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Teste">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.Teste" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteArrayDePrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteArrayDePrimitivos" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteArrayReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteArrayReferencia" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteContas" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteSaca" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.TesteContas" />
+      <item itemvalue="Application.TesteSaca" />
+      <item itemvalue="Application.TesteArrayDePrimitivos" />
+      <item itemvalue="Application.TesteArrayReferencia" />
+      <item itemvalue="Application.Teste" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.TesteArrayReferencia" />
+        <item itemvalue="Application.TesteArrayDePrimitivos" />
+        <item itemvalue="Application.TesteContas" />
+        <item itemvalue="Application.TesteSaca" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd60d932-e46d-4bac-b65a-a5e7a4a0fd21" name="Default Changelist" comment="" />
+      <created>1618792550633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618792550633</updated>
+    </task>
+    <servers />
+  </component>
+</project>
