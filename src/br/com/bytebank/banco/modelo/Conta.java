@@ -79,6 +79,22 @@ public abstract class Conta {
 		return Conta.total;
 	}
 
+	//sobreescrevendo o método equals da classe object
+	@Override
+	public boolean equals(Object ref){
+		Conta outra = (Conta)ref;
+
+		if(isBoolean(outra)){
+			return false;
+		}
+		return true;
+	}
+
+	//fazendo a verificação
+	private boolean isBoolean(Conta outra) {
+		return this.agencia != outra.agencia || this.numero != outra.numero;
+	}
+
 	@Override
 	public String toString() {
 		return "Numero: " + this.numero;

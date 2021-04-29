@@ -5,7 +5,7 @@ import br.com.bytebank.banco.modelo.ContaCorrente;
 
 import java.util.ArrayList;
 
-public class Teste {
+public class TesteArrayListEquals {
 
     public static void main(String[] args) {
         ArrayList<Conta> lista = new ArrayList<Conta>();
@@ -17,19 +17,12 @@ public class Teste {
         lista.add(cc2);
 
         Conta cc3 = new ContaCorrente(22,11);
-        lista.add(cc3);
-
-        System.out.println(lista.size());
-
-        Conta ref = lista.get(0);
-
-        System.out.println(ref.getNumero());
-
-        lista.remove(0);
-
-        System.out.println(lista.size());
-
+        // O metódo contains possui o metódo equals implementado
+        //na classe Conta e não mais na classe Object(padrão)
+        boolean existe = lista.contains(cc3);
         //foreach
+
+        System.out.println("Já existe: "+existe);
         for(Conta conta: lista){
             System.out.println(conta);
         }
