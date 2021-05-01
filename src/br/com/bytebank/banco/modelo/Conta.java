@@ -11,7 +11,7 @@ import br.com.bytebank.banco.exception.SaldoInsuficienteExceptionChecked;
  * Conta e uma classe abstrata para que ela nao possa ser instanciada
  * e apenas extendida para que for utilizar ela.
  */
-public abstract class Conta {
+public abstract class Conta implements Comparable<Conta>{
 	
 	protected double saldo;
 	private int agencia;
@@ -98,5 +98,10 @@ public abstract class Conta {
 	@Override
 	public String toString() {
 		return "Numero: " + this.numero;
+	}
+
+	@Override
+	public int compareTo(Conta c1) {
+		return Integer.compare(this.agencia, c1.agencia);
 	}
 }
