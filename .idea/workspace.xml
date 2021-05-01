@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd60d932-e46d-4bac-b65a-a5e7a4a0fd21" name="Default Changelist" comment="" />
+    <list default="true" id="bd60d932-e46d-4bac-b65a-a5e7a4a0fd21" name="Default Changelist" comment="Aula de Wrappers">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteClasseAnonima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteOrdenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/com/bytebank/banco/modelo/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/com/bytebank/banco/modelo/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/com/bytebank/banco/teste/util/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/com/bytebank/banco/teste/util/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rMipB9ADhlDJYXQpk7ygWAoVxz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,13 +35,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.bytebank.banco.teste.util" />
       <recent name="br.com.bytebank.banco.teste" />
     </key>
   </component>
@@ -59,34 +77,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteArrayList" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteArrayListEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteArrayListEquals" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteArrayReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteArrayReferencia" />
-      <module name="bytebank-herdado-conta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteContas" />
-      <module name="bytebank-herdado-conta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteSaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteSaca" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -107,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.TesteContas" />
-      <item itemvalue="Application.TesteSaca" />
       <item itemvalue="Application.TesteArrayDePrimitivos" />
       <item itemvalue="Application.TesteArrayReferencia" />
+      <item itemvalue="Application.TesteArrayListEquals" />
+      <item itemvalue="Application.TesteArrayList" />
       <item itemvalue="Application.Teste" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.TesteArrayListEquals" />
+        <item itemvalue="Application.TesteArrayList" />
         <item itemvalue="Application.TesteArrayReferencia" />
         <item itemvalue="Application.TesteArrayDePrimitivos" />
-        <item itemvalue="Application.TesteContas" />
-        <item itemvalue="Application.TesteSaca" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +150,38 @@
       <option name="presentableId" value="Default" />
       <updated>1618792550633</updated>
     </task>
+    <task id="LOCAL-00001" summary="Utilizando o método equals e a interface List">
+      <created>1619726007923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619726007923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aula de Wrappers">
+      <created>1619745510189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619745510189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Utilizando o método equals e a interface List" />
+    <MESSAGE value="Aula de Wrappers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula de Wrappers" />
   </component>
 </project>
