@@ -1,7 +1,9 @@
 package br.com.bytebank.banco.modelo;
 
-public class Cliente {
-	
+import java.io.Serializable;
+
+public class Cliente implements Serializable {
+
 	private String nome;
 	private String cpf;
 	private String profissao;
@@ -24,5 +26,5 @@ public class Cliente {
 	public void setProfissao(String profissao) {
 		this.profissao = profissao;
 	}
-	
+
 }

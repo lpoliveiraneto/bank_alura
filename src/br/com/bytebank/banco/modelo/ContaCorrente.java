@@ -2,7 +2,9 @@ package br.com.bytebank.banco.modelo;
 
 import br.com.bytebank.banco.exception.SaldoInsuficienteExceptionChecked;
 
-public class ContaCorrente extends Conta implements Tributavel {
+import java.io.Serializable;
+
+public class ContaCorrente extends Conta implements Tributavel{
 	
 	public ContaCorrente(int agencia, int numero) {
 		super(agencia, numero);

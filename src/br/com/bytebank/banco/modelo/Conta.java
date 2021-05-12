@@ -3,6 +3,8 @@ package br.com.bytebank.banco.modelo;
 import br.com.bytebank.banco.exception.SaldoInsuficienteException;
 import br.com.bytebank.banco.exception.SaldoInsuficienteExceptionChecked;
 
+import java.io.Serializable;
+
 /**
  * @author Oliveira Neto
  *
@@ -11,7 +13,7 @@ import br.com.bytebank.banco.exception.SaldoInsuficienteExceptionChecked;
  * Conta e uma classe abstrata para que ela nao possa ser instanciada
  * e apenas extendida para que for utilizar ela.
  */
-public abstract class Conta implements Comparable<Conta>{
+public abstract class Conta implements Comparable<Conta>, Serializable {
 	
 	protected double saldo;
 	private int agencia;
